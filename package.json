@@ -1,0 +1,22 @@
+{
+  "name": "learn-design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cihat/learn-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cihat/learn-design-patterns/issues"
+  },
+  "homepage": "https://github.com/cihat/learn-design-patterns#readme"
+}
